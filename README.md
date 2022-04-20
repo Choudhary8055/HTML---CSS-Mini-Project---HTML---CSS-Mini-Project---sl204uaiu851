@@ -1,5 +1,5 @@
-# html-css-project-boilerplate
- Project description in the text box below:-
+# html-css-project-boilerplate:- Project description in the text box below:-
+
     1-WHY this project was chosen (what use case does it solve)-
        I'm choseing this website for learning purpose 
        This is my first project to larning Html and Css concept and implement in good fornt end project 
@@ -8,8 +8,7 @@
 
 
 
-
-    2-HOW did you make the project-
+     2-HOW did you make the project-
       Mainly I'm built this website using 
         1 Html-- Using Html for Giving Structure of web-page
                HTML allows users to create and structure sections, headings, links, paragraphs, and more, on a website using various tags and elements. 
